@@ -10,6 +10,7 @@ Challenge link: <a href src="https://www.kaggle.com/competitions/walmart-recruit
 
 <li><b>Technologies used:</b></li>
   <ul>
+    <li>Jupyter Notebook</li>
     <li>Python</li>
     <li>Pandas</li>
     <li>Numpy</li>
